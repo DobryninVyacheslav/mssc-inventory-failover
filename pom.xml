@@ -12,6 +12,9 @@
     <version>0.0.1-SNAPSHOT</version>
     <name>mssc-inventory-failover</name>
     <description>Inventory Failover Service</description>
+    <properties>
+        <docker.image.prefix>dobryninvyacheslav</docker.image.prefix>
+    </properties>
 
     <dependencies>
         <dependency>
